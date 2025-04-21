@@ -64,5 +64,11 @@
         android:text="8번"
         android:layout_below="@id/baseText"
         android:layout_toRightOf="@id/baseText"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9번"
+        android:layout_alignBottom="@id/baseText"
+        android:layout_toRightOf="@id/baseText"/>
 
 </RelativeLayout>
